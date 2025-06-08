@@ -1,0 +1,337 @@
+2025-06-08 00:45:06,370 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 00:45:06,616 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 00:45:06,960 - aiogram.event - INFO - Update id=918837370 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 00:45:26,177 - aiogram.event - INFO - Update id=918837371 is handled. Duration 1766 ms by bot id=7540948524
+2025-06-08 00:46:46,338 - aiogram.event - INFO - Update id=918837372 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:46:54,006 - aiogram.event - INFO - Update id=918837373 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:47:03,154 - aiogram.event - INFO - Update id=918837374 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:47:16,051 - aiogram.event - INFO - Update id=918837375 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 00:47:19,101 - aiogram.event - INFO - Update id=918837376 is handled. Duration 1266 ms by bot id=7540948524
+2025-06-08 00:47:23,154 - aiogram.event - INFO - Update id=918837377 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:47:28,919 - aiogram.event - INFO - Update id=918837378 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:47:46,597 - aiogram.event - INFO - Update id=918837379 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:48:05,767 - aiogram.event - INFO - Update id=918837380 is handled. Duration 78 ms by bot id=7540948524
+2025-06-08 00:48:09,155 - aiogram.event - INFO - Update id=918837381 is handled. Duration 1311 ms by bot id=7540948524
+2025-06-08 00:48:14,590 - aiogram.event - INFO - Update id=918837382 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:55:17,653 - aiogram.event - INFO - Update id=918837383 is handled. Duration 655 ms by bot id=7540948524
+2025-06-08 00:55:21,431 - aiogram.event - INFO - Update id=918837384 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 00:59:53,594 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 00:59:53,833 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 01:00:04,024 - aiogram.event - INFO - Update id=918837385 is handled. Duration 264 ms by bot id=7540948524
+2025-06-08 01:00:05,939 - aiogram.event - INFO - Update id=918837386 is handled. Duration 156 ms by bot id=7540948524
+2025-06-08 01:00:07,880 - aiogram.event - INFO - Update id=918837387 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 01:00:25,233 - aiogram.event - INFO - Update id=918837388 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 01:06:49,799 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 01:06:49,977 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 01:06:56,629 - aiogram.event - INFO - Update id=918837389 is handled. Duration 297 ms by bot id=7540948524
+2025-06-08 01:06:58,923 - aiogram.event - INFO - Update id=918837390 is handled. Duration 155 ms by bot id=7540948524
+2025-06-08 01:07:03,061 - aiogram.event - INFO - Update id=918837391 is handled. Duration 1437 ms by bot id=7540948524
+2025-06-08 01:07:05,690 - aiogram.event - INFO - Update id=918837392 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 01:07:08,075 - aiogram.event - INFO - Update id=918837393 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 01:07:30,143 - aiogram.event - INFO - Update id=918837394 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 01:07:33,090 - aiogram.event - INFO - Update id=918837395 is handled. Duration 1359 ms by bot id=7540948524
+2025-06-08 01:07:34,788 - aiogram.event - INFO - Update id=918837396 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 01:07:36,047 - aiogram.event - INFO - Update id=918837397 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 01:07:37,312 - aiogram.event - INFO - Update id=918837398 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 01:07:39,528 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 01:07:39,616 - aiogram.event - INFO - Update id=918837399 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 01:07:40,599 - aiogram.event - INFO - Update id=918837400 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 01:07:41,916 - aiogram.event - INFO - Update id=918837401 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 01:07:42,178 - aiogram.event - INFO - Update id=918837402 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 01:07:44,064 - aiogram.event - INFO - Update id=918837403 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 01:07:46,081 - aiogram.event - INFO - Update id=918837404 is handled. Duration 61 ms by bot id=7540948524
+2025-06-08 01:07:50,369 - aiogram.event - INFO - Update id=918837405 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 01:07:52,835 - aiogram.event - INFO - Update id=918837406 is handled. Duration 61 ms by bot id=7540948524
+2025-06-08 01:07:55,115 - aiogram.event - INFO - Update id=918837407 is handled. Duration 62 ms by bot id=7540948524
+2025-06-08 01:08:02,304 - aiogram.event - INFO - Update id=918837408 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 01:08:05,387 - aiogram.event - INFO - Update id=918837409 is handled. Duration 641 ms by bot id=7540948524
+2025-06-08 01:08:09,284 - aiogram.event - INFO - Update id=918837410 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 01:08:11,032 - aiogram.event - INFO - Update id=918837411 is handled. Duration 155 ms by bot id=7540948524
+2025-06-08 01:08:14,145 - aiogram.event - INFO - Update id=918837412 is handled. Duration 1235 ms by bot id=7540948524
+2025-06-08 12:35:21,816 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-08 12:35:21,856 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7540948524)
+2025-06-08 12:35:23,222 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7540948524)
+2025-06-08 12:35:23,512 - aiogram.event - INFO - Update id=918837413 is handled. Duration 281 ms by bot id=7540948524
+2025-06-08 12:35:23,549 - aiogram.event - INFO - Update id=918837414 is handled. Duration 313 ms by bot id=7540948524
+2025-06-08 13:00:52,814 - aiogram.event - INFO - Update id=918837415 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:01:47,390 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 14:01:47,638 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 14:02:07,185 - aiogram.event - INFO - Update id=918837416 is handled. Duration 186 ms by bot id=7540948524
+2025-06-08 14:02:10,123 - aiogram.event - INFO - Update id=918837417 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 14:02:12,446 - aiogram.event - INFO - Update id=918837418 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 14:02:13,947 - aiogram.event - INFO - Update id=918837419 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:02:17,487 - aiogram.event - INFO - Update id=918837420 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:02:21,638 - aiogram.event - INFO - Update id=918837421 is handled. Duration 172 ms by bot id=7540948524
+2025-06-08 14:02:22,660 - aiogram.event - INFO - Update id=918837422 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:02:25,242 - aiogram.event - INFO - Update id=918837423 is handled. Duration 313 ms by bot id=7540948524
+2025-06-08 14:08:56,775 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 14:08:57,009 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 14:09:07,084 - aiogram.event - INFO - Update id=918837424 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 14:09:08,709 - aiogram.event - INFO - Update id=918837425 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:09:27,994 - aiogram.event - INFO - Update id=918837426 is handled. Duration 172 ms by bot id=7540948524
+2025-06-08 14:09:32,427 - aiogram.event - INFO - Update id=918837427 is handled. Duration 922 ms by bot id=7540948524
+2025-06-08 14:09:34,174 - aiogram.event - INFO - Update id=918837428 is handled. Duration 110 ms by bot id=7540948524
+2025-06-08 14:09:35,413 - aiogram.event - INFO - Update id=918837429 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:09:39,309 - aiogram.event - INFO - Update id=918837430 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 14:09:40,730 - aiogram.event - INFO - Update id=918837431 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:09:44,450 - aiogram.event - INFO - Update id=918837432 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:09:46,573 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 14:09:46,771 - aiogram.event - INFO - Update id=918837433 is handled. Duration 233 ms by bot id=7540948524
+2025-06-08 14:09:48,983 - aiogram.event - INFO - Update id=918837434 is handled. Duration 405 ms by bot id=7540948524
+2025-06-08 14:09:50,725 - aiogram.event - INFO - Update id=918837435 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 14:09:52,176 - aiogram.event - INFO - Update id=918837436 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:09:59,643 - aiogram.event - INFO - Update id=918837437 is handled. Duration 812 ms by bot id=7540948524
+2025-06-08 14:10:05,667 - aiogram.event - INFO - Update id=918837438 is handled. Duration 188 ms by bot id=7540948524
+2025-06-08 14:10:07,239 - aiogram.event - INFO - Update id=918837439 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:10:18,964 - aiogram.event - INFO - Update id=918837440 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 14:10:20,572 - aiogram.event - INFO - Update id=918837441 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:10:22,684 - aiogram.event - INFO - Update id=918837442 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 14:10:23,978 - aiogram.event - INFO - Update id=918837443 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:11:07,737 - aiogram.event - INFO - Update id=918837444 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:11:09,930 - aiogram.event - INFO - Update id=918837445 is handled. Duration 233 ms by bot id=7540948524
+2025-06-08 14:11:11,538 - aiogram.event - INFO - Update id=918837446 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:11:13,881 - aiogram.event - INFO - Update id=918837447 is handled. Duration 140 ms by bot id=7540948524
+2025-06-08 14:11:15,778 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 14:11:15,956 - aiogram.event - INFO - Update id=918837448 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 14:11:17,359 - aiogram.event - INFO - Update id=918837449 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:11:20,834 - aiogram.event - INFO - Update id=918837450 is handled. Duration 140 ms by bot id=7540948524
+2025-06-08 14:11:39,053 - aiogram.event - INFO - Update id=918837451 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:11:45,817 - aiogram.event - INFO - Update id=918837452 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 14:11:53,789 - aiogram.event - INFO - Update id=918837453 is handled. Duration 78 ms by bot id=7540948524
+2025-06-08 14:11:55,029 - aiogram.event - INFO - Update id=918837454 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:12:07,451 - aiogram.event - INFO - Update id=918837455 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 14:12:14,417 - aiogram.event - INFO - Update id=918837456 is handled. Duration 172 ms by bot id=7540948524
+2025-06-08 14:12:31,095 - aiogram.event - INFO - Update id=918837457 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 14:12:32,578 - aiogram.event - INFO - Update id=918837458 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:12:35,205 - aiogram.event - INFO - Update id=918837459 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 14:12:36,606 - aiogram.event - INFO - Update id=918837460 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:16:50,045 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 14:16:50,234 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 14:17:03,165 - aiogram.event - INFO - Update id=918837461 is handled. Duration 203 ms by bot id=7540948524
+2025-06-08 14:17:04,295 - aiogram.event - INFO - Update id=918837462 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:17:18,650 - aiogram.event - INFO - Update id=918837463 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 14:17:22,715 - aiogram.event - INFO - Update id=918837464 is handled. Duration 1359 ms by bot id=7540948524
+2025-06-08 14:17:24,668 - aiogram.event - INFO - Update id=918837465 is handled. Duration 344 ms by bot id=7540948524
+2025-06-08 14:17:25,939 - aiogram.event - INFO - Update id=918837466 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:17:29,393 - aiogram.event - INFO - Update id=918837467 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 14:17:31,437 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 14:17:31,508 - aiogram.event - INFO - Update id=918837468 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 14:17:32,885 - aiogram.event - INFO - Update id=918837469 is handled. Duration 15 ms by bot id=7540948524
+2025-06-08 14:17:36,143 - aiogram.event - INFO - Update id=918837470 is handled. Duration 78 ms by bot id=7540948524
+2025-06-08 14:17:41,518 - aiogram.event - INFO - Update id=918837471 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 14:17:43,708 - aiogram.event - INFO - Update id=918837472 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:17:46,420 - aiogram.event - INFO - Update id=918837473 is handled. Duration 188 ms by bot id=7540948524
+2025-06-08 14:17:48,044 - aiogram.event - INFO - Update id=918837474 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:17:50,673 - aiogram.event - INFO - Update id=918837475 is handled. Duration 110 ms by bot id=7540948524
+2025-06-08 14:17:52,107 - aiogram.event - INFO - Update id=918837476 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:17:55,201 - aiogram.event - INFO - Update id=918837477 is handled. Duration 1077 ms by bot id=7540948524
+2025-06-08 14:17:57,000 - aiogram.event - INFO - Update id=918837478 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 14:24:45,320 - aiogram.event - INFO - Update id=918837479 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:24:51,244 - aiogram.event - INFO - Update id=918837480 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:24:52,692 - aiogram.event - INFO - Update id=918837481 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:24:54,579 - aiogram.event - INFO - Update id=918837482 is handled. Duration 562 ms by bot id=7540948524
+2025-06-08 14:31:15,857 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 14:31:16,052 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 14:31:26,312 - aiogram.event - INFO - Update id=918837483 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:31:36,396 - aiogram.event - INFO - Update id=918837484 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 14:31:37,967 - aiogram.event - INFO - Update id=918837485 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:32:02,534 - aiogram.event - INFO - Update id=918837487 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:32:02,763 - aiogram.event - INFO - Update id=918837486 is handled. Duration 234 ms by bot id=7540948524
+2025-06-08 14:32:04,328 - aiogram.event - INFO - Update id=918837488 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:32:22,949 - aiogram.event - INFO - Update id=918837489 is handled. Duration 2062 ms by bot id=7540948524
+2025-06-08 14:32:25,150 - aiogram.event - INFO - Update id=918837490 is handled. Duration 233 ms by bot id=7540948524
+2025-06-08 14:32:26,534 - aiogram.event - INFO - Update id=918837491 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:32:29,330 - aiogram.event - INFO - Update id=918837492 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:32:30,771 - aiogram.event - INFO - Update id=918837493 is handled. Duration 15 ms by bot id=7540948524
+2025-06-08 14:32:34,250 - aiogram.event - INFO - Update id=918837494 is handled. Duration 859 ms by bot id=7540948524
+2025-06-08 14:35:45,627 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 14:35:45,856 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 14:35:55,688 - aiogram.event - INFO - Update id=918837495 is handled. Duration 311 ms by bot id=7540948524
+2025-06-08 14:35:57,186 - aiogram.event - INFO - Update id=918837496 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:07,094 - aiogram.event - INFO - Update id=918837497 is handled. Duration 140 ms by bot id=7540948524
+2025-06-08 14:36:11,451 - aiogram.event - INFO - Update id=918837498 is handled. Duration 266 ms by bot id=7540948524
+2025-06-08 14:36:14,655 - aiogram.event - INFO - Update id=918837499 is handled. Duration 297 ms by bot id=7540948524
+2025-06-08 14:36:15,914 - aiogram.event - INFO - Update id=918837500 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:17,473 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 14:36:17,599 - aiogram.event - INFO - Update id=918837501 is handled. Duration 156 ms by bot id=7540948524
+2025-06-08 14:36:19,584 - aiogram.event - INFO - Update id=918837502 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 14:36:21,784 - aiogram.event - INFO - Update id=918837503 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:36:24,390 - aiogram.event - INFO - Update id=918837504 is handled. Duration 500 ms by bot id=7540948524
+2025-06-08 14:36:26,810 - aiogram.event - INFO - Update id=918837505 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:36:27,940 - aiogram.event - INFO - Update id=918837506 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:30,804 - aiogram.event - INFO - Update id=918837507 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 14:36:33,151 - aiogram.event - INFO - Update id=918837508 is handled. Duration 265 ms by bot id=7540948524
+2025-06-08 14:36:34,536 - aiogram.event - INFO - Update id=918837509 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:36,385 - aiogram.event - INFO - Update id=918837510 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 14:36:37,646 - aiogram.event - INFO - Update id=918837511 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:39,573 - aiogram.event - INFO - Update id=918837512 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:36:41,256 - aiogram.event - INFO - Update id=918837513 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:36:43,375 - aiogram.event - INFO - Update id=918837514 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 14:36:46,788 - aiogram.event - INFO - Update id=918837515 is handled. Duration 1485 ms by bot id=7540948524
+2025-06-08 14:45:06,994 - aiogram.event - INFO - Update id=918837516 is handled. Duration 422 ms by bot id=7540948524
+2025-06-08 14:45:10,670 - aiogram.event - INFO - Update id=918837517 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:45:15,111 - aiogram.event - INFO - Update id=918837518 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:45:16,573 - aiogram.event - INFO - Update id=918837519 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:45:24,356 - aiogram.event - INFO - Update id=918837520 is handled. Duration 500 ms by bot id=7540948524
+2025-06-08 14:47:09,410 - aiogram.event - INFO - Update id=918837521 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:47:12,092 - aiogram.event - INFO - Update id=918837522 is handled. Duration 452 ms by bot id=7540948524
+2025-06-08 14:47:45,365 - aiogram.event - INFO - Update id=918837523 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:47:46,616 - aiogram.event - INFO - Update id=918837524 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:47:57,611 - aiogram.event - INFO - Update id=918837526 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:47:57,786 - aiogram.event - INFO - Update id=918837525 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 14:48:00,924 - aiogram.event - INFO - Update id=918837527 is handled. Duration 594 ms by bot id=7540948524
+2025-06-08 14:48:03,552 - aiogram.event - INFO - Update id=918837528 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 14:48:04,813 - aiogram.event - INFO - Update id=918837529 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:48:07,018 - aiogram.event - INFO - Update id=918837530 is handled. Duration 218 ms by bot id=7540948524
+2025-06-08 14:48:08,099 - aiogram.event - INFO - Update id=918837531 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:48:09,943 - aiogram.event - INFO - Update id=918837532 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 14:48:12,589 - aiogram.event - INFO - Update id=918837533 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 14:48:14,138 - aiogram.event - INFO - Update id=918837534 is handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:48:15,596 - aiogram.event - INFO - Update id=918837535 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 14:48:48,387 - aiogram.event - INFO - Update id=918837536 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:48:56,427 - aiogram.event - INFO - Update id=918837537 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 14:49:34,888 - aiogram.event - INFO - Update id=918837538 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:02:11,131 - aiogram.event - INFO - Update id=918837539 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:12:16,791 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 15:12:17,007 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 15:12:30,472 - aiogram.event - INFO - Update id=918837540 is handled. Duration 218 ms by bot id=7540948524
+2025-06-08 15:12:31,867 - aiogram.event - INFO - Update id=918837541 is handled. Duration 188 ms by bot id=7540948524
+2025-06-08 15:12:50,213 - aiogram.event - INFO - Update id=918837542 is handled. Duration 687 ms by bot id=7540948524
+2025-06-08 15:12:52,069 - aiogram.event - INFO - Update id=918837543 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 15:12:53,924 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 15:12:54,001 - aiogram.event - INFO - Update id=918837544 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:12:55,283 - aiogram.event - INFO - Update id=918837545 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:12:56,518 - aiogram.event - INFO - Update id=918837546 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:14:04,350 - aiogram.event - INFO - Update id=918837547 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:14:29,680 - aiogram.event - INFO - Update id=918837548 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:15:14,846 - aiogram.event - INFO - Update id=918837549 is handled. Duration 327 ms by bot id=7540948524
+2025-06-08 15:15:16,808 - aiogram.event - INFO - Update id=918837550 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 15:15:17,783 - aiogram.event - INFO - Update id=918837551 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:15:19,350 - aiogram.event - INFO - Update id=918837552 is handled. Duration 593 ms by bot id=7540948524
+2025-06-08 15:15:20,699 - aiogram.event - INFO - Update id=918837553 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 15:15:22,243 - aiogram.event - INFO - Update id=918837554 is handled. Duration 484 ms by bot id=7540948524
+2025-06-08 15:16:35,925 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 15:16:36,108 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 15:17:02,807 - aiogram.event - INFO - Update id=918837555 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:17:06,219 - aiogram.event - INFO - Update id=918837556 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:17:15,687 - aiogram.event - INFO - Update id=918837557 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 15:17:17,259 - aiogram.event - INFO - Update id=918837558 is handled. Duration 187 ms by bot id=7540948524
+2025-06-08 15:17:17,359 - aiogram.event - INFO - Update id=918837559 is handled. Duration 233 ms by bot id=7540948524
+2025-06-08 15:17:20,205 - aiogram.event - INFO - Update id=918837560 is handled. Duration 1280 ms by bot id=7540948524
+2025-06-08 15:17:20,227 - aiogram.event - INFO - Update id=918837561 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 15:17:21,796 - aiogram.event - INFO - Update id=918837562 is handled. Duration 328 ms by bot id=7540948524
+2025-06-08 15:17:21,887 - aiogram.event - INFO - Update id=918837563 is handled. Duration 203 ms by bot id=7540948524
+2025-06-08 15:17:23,093 - aiogram.event - INFO - Update id=918837564 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:17:23,620 - aiogram.event - INFO - Update id=918837565 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:17:24,116 - aiogram.event - INFO - Update id=918837566 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:17:25,850 - aiogram.event - INFO - Update id=918837567 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 15:17:25,916 - services.database - INFO - Книга добавлена в избранное для user_id 397754086
+2025-06-08 15:17:26,115 - aiogram.event - INFO - Update id=918837568 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 15:17:27,557 - aiogram.event - INFO - Update id=918837569 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 15:17:27,793 - aiogram.event - INFO - Update id=918837570 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:17:28,322 - aiogram.event - INFO - Update id=918837571 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 15:17:29,153 - aiogram.event - INFO - Update id=918837572 is handled. Duration 187 ms by bot id=7540948524
+2025-06-08 15:17:30,667 - aiogram.event - INFO - Update id=918837573 is handled. Duration 156 ms by bot id=7540948524
+2025-06-08 15:17:41,336 - aiogram.event - INFO - Update id=918837574 is handled. Duration 187 ms by bot id=7540948524
+2025-06-08 15:17:45,075 - services.database - INFO - Книга добавлена в избранное для user_id 951264657
+2025-06-08 15:17:45,185 - aiogram.event - INFO - Update id=918837575 is handled. Duration 155 ms by bot id=7540948524
+2025-06-08 15:17:47,679 - aiogram.event - INFO - Update id=918837576 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 15:18:05,069 - aiogram.event - INFO - Update id=918837577 is handled. Duration 141 ms by bot id=7540948524
+2025-06-08 15:18:06,688 - aiogram.event - INFO - Update id=918837578 is handled. Duration 764 ms by bot id=7540948524
+2025-06-08 15:18:14,253 - aiogram.event - INFO - Update id=918837579 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:18:15,650 - aiogram.event - INFO - Update id=918837580 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:18:20,430 - aiogram.event - INFO - Update id=918837581 is not handled. Duration 14 ms by bot id=7540948524
+2025-06-08 15:18:36,343 - aiogram.event - INFO - Update id=918837582 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:18:39,563 - aiogram.event - INFO - Update id=918837583 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:18:40,717 - aiogram.event - INFO - Update id=918837584 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:18:45,833 - aiogram.event - INFO - Update id=918837585 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:18:50,961 - aiogram.event - INFO - Update id=918837586 is handled. Duration 156 ms by bot id=7540948524
+2025-06-08 15:19:02,477 - aiogram.event - INFO - Update id=918837587 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:19:09,102 - aiogram.event - INFO - Update id=918837588 is handled. Duration 750 ms by bot id=7540948524
+2025-06-08 15:19:12,034 - aiogram.event - INFO - Update id=918837589 is handled. Duration 62 ms by bot id=7540948524
+2025-06-08 15:19:14,299 - aiogram.event - INFO - Update id=918837590 is handled. Duration 719 ms by bot id=7540948524
+2025-06-08 15:19:16,338 - aiogram.event - INFO - Update id=918837591 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 15:19:19,320 - aiogram.event - INFO - Update id=918837592 is handled. Duration 1484 ms by bot id=7540948524
+2025-06-08 15:19:21,973 - aiogram.event - INFO - Update id=918837593 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:19:28,596 - aiogram.event - INFO - Update id=918837594 is handled. Duration 187 ms by bot id=7540948524
+2025-06-08 15:19:30,740 - aiogram.event - INFO - Update id=918837595 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:19:32,167 - aiogram.event - INFO - Update id=918837596 is handled. Duration 110 ms by bot id=7540948524
+2025-06-08 15:19:33,311 - aiogram.event - INFO - Update id=918837597 is handled. Duration 186 ms by bot id=7540948524
+2025-06-08 15:19:34,099 - aiogram.event - INFO - Update id=918837598 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 15:19:35,457 - aiogram.event - INFO - Update id=918837599 is handled. Duration 577 ms by bot id=7540948524
+2025-06-08 15:19:37,405 - aiogram.event - INFO - Update id=918837600 is handled. Duration 594 ms by bot id=7540948524
+2025-06-08 15:20:12,813 - aiogram.event - INFO - Update id=918837601 is handled. Duration 139 ms by bot id=7540948524
+2025-06-08 15:21:19,798 - aiogram.event - INFO - Update id=918837602 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:30:17,236 - aiogram.event - INFO - Update id=918837603 is handled. Duration 172 ms by bot id=7540948524
+2025-06-08 15:30:19,468 - aiogram.event - INFO - Update id=918837604 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:30:21,128 - aiogram.event - INFO - Update id=918837605 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:30:22,873 - services.database - INFO - Книга добавлена в избранное для user_id 5232398049
+2025-06-08 15:30:22,948 - aiogram.event - INFO - Update id=918837606 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:30:24,863 - aiogram.event - INFO - Update id=918837607 is handled. Duration 61 ms by bot id=7540948524
+2025-06-08 15:30:26,459 - aiogram.event - INFO - Update id=918837608 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 15:30:28,838 - aiogram.event - INFO - Update id=918837609 is handled. Duration 484 ms by bot id=7540948524
+2025-06-08 15:30:31,017 - aiogram.event - INFO - Update id=918837610 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:30:32,405 - aiogram.event - INFO - Update id=918837611 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:30:33,456 - aiogram.event - INFO - Update id=918837612 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:30:35,505 - aiogram.event - INFO - Update id=918837613 is handled. Duration 797 ms by bot id=7540948524
+2025-06-08 15:30:37,446 - aiogram.event - INFO - Update id=918837614 is handled. Duration 234 ms by bot id=7540948524
+2025-06-08 15:30:38,687 - aiogram.event - INFO - Update id=918837615 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 15:30:40,372 - aiogram.event - INFO - Update id=918837616 is handled. Duration 484 ms by bot id=7540948524
+2025-06-08 15:30:41,485 - aiogram.event - INFO - Update id=918837617 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 15:30:43,332 - aiogram.event - INFO - Update id=918837618 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:30:45,489 - aiogram.event - INFO - Update id=918837619 is handled. Duration 515 ms by bot id=7540948524
+2025-06-08 15:30:46,716 - aiogram.event - INFO - Update id=918837620 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 15:32:41,258 - aiogram.event - INFO - Update id=918837621 is handled. Duration 218 ms by bot id=7540948524
+2025-06-08 15:32:43,600 - aiogram.event - INFO - Update id=918837622 is handled. Duration 358 ms by bot id=7540948524
+2025-06-08 15:32:45,817 - aiogram.event - INFO - Update id=918837623 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 15:32:48,634 - aiogram.event - INFO - Update id=918837624 is handled. Duration 172 ms by bot id=7540948524
+2025-06-08 15:32:50,302 - aiogram.event - INFO - Update id=918837625 is handled. Duration 266 ms by bot id=7540948524
+2025-06-08 15:32:52,707 - aiogram.event - INFO - Update id=918837626 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:32:54,828 - aiogram.event - INFO - Update id=918837627 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:33:05,085 - aiogram.event - INFO - Update id=918837628 is handled. Duration 171 ms by bot id=7540948524
+2025-06-08 15:33:12,014 - aiogram.event - INFO - Update id=918837629 is handled. Duration 93 ms by bot id=7540948524
+2025-06-08 15:33:13,451 - aiogram.event - INFO - Update id=918837630 is handled. Duration 155 ms by bot id=7540948524
+2025-06-08 15:33:16,084 - aiogram.event - INFO - Update id=918837631 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:33:19,220 - aiogram.event - INFO - Update id=918837632 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:33:49,670 - aiogram.event - INFO - Update id=918837633 is handled. Duration 578 ms by bot id=7540948524
+2025-06-08 15:34:22,638 - aiogram.event - INFO - Update id=918837634 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:34:30,802 - aiogram.event - INFO - Update id=918837635 is handled. Duration 406 ms by bot id=7540948524
+2025-06-08 15:34:32,413 - aiogram.event - INFO - Update id=918837636 is handled. Duration 500 ms by bot id=7540948524
+2025-06-08 15:34:34,450 - aiogram.event - INFO - Update id=918837637 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:34:38,742 - aiogram.event - INFO - Update id=918837638 is handled. Duration 156 ms by bot id=7540948524
+2025-06-08 15:34:42,037 - aiogram.event - INFO - Update id=918837639 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:34:45,124 - aiogram.event - INFO - Update id=918837640 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:34:47,286 - aiogram.event - INFO - Update id=918837641 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:34:50,437 - aiogram.event - INFO - Update id=918837642 is handled. Duration 108 ms by bot id=7540948524
+2025-06-08 15:35:23,405 - aiogram.event - INFO - Update id=918837643 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:35:26,372 - aiogram.event - INFO - Update id=918837644 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:35:32,499 - aiogram.event - INFO - Update id=918837645 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:35:34,539 - aiogram.event - INFO - Update id=918837646 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:35:39,525 - aiogram.event - INFO - Update id=918837647 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:35:49,555 - aiogram.event - INFO - Update id=918837648 is not handled. Duration 14 ms by bot id=7540948524
+2025-06-08 15:35:52,568 - aiogram.event - INFO - Update id=918837649 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:36:02,358 - aiogram.event - INFO - Update id=918837650 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:36:04,191 - aiogram.event - INFO - Update id=918837651 is handled. Duration 546 ms by bot id=7540948524
+2025-06-08 15:36:06,359 - aiogram.event - INFO - Update id=918837652 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 15:36:10,693 - aiogram.event - INFO - Update id=918837653 is handled. Duration 280 ms by bot id=7540948524
+2025-06-08 15:36:18,865 - aiogram.event - INFO - Update id=918837654 is handled. Duration 233 ms by bot id=7540948524
+2025-06-08 15:36:56,562 - aiogram.event - INFO - Update id=918837655 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:36:59,275 - aiogram.event - INFO - Update id=918837656 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:41:11,624 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 15:41:11,812 - aiogram.dispatcher - INFO - Run polling for bot @BookFinderExampleBot id=7540948524 - 'BookFinderBot'
+2025-06-08 15:41:24,330 - aiogram.event - INFO - Update id=918837657 is handled. Duration 234 ms by bot id=7540948524
+2025-06-08 15:41:27,617 - aiogram.event - INFO - Update id=918837658 is handled. Duration 1359 ms by bot id=7540948524
+2025-06-08 15:41:32,047 - aiogram.event - INFO - Update id=918837659 is handled. Duration 235 ms by bot id=7540948524
+2025-06-08 15:41:55,795 - aiogram.event - INFO - Update id=918837660 is handled. Duration 219 ms by bot id=7540948524
+2025-06-08 15:42:06,948 - aiogram.event - INFO - Update id=918837661 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:42:09,268 - aiogram.event - INFO - Update id=918837662 is handled. Duration 109 ms by bot id=7540948524
+2025-06-08 15:42:12,776 - aiogram.event - INFO - Update id=918837663 is handled. Duration 94 ms by bot id=7540948524
+2025-06-08 15:42:21,057 - aiogram.event - INFO - Update id=918837664 is handled. Duration 77 ms by bot id=7540948524
+2025-06-08 15:42:22,898 - aiogram.event - INFO - Update id=918837665 is handled. Duration 125 ms by bot id=7540948524
+2025-06-08 15:42:24,932 - services.database - INFO - Книга добавлена в избранное для user_id 397754086
+2025-06-08 15:42:25,090 - aiogram.event - INFO - Update id=918837666 is handled. Duration 202 ms by bot id=7540948524
+2025-06-08 15:42:35,033 - aiogram.event - INFO - Update id=918837667 is handled. Duration 250 ms by bot id=7540948524
+2025-06-08 16:24:39,175 - aiogram.event - INFO - Update id=918837668 is not handled. Duration 16 ms by bot id=7540948524
+2025-06-08 16:24:42,655 - aiogram.event - INFO - Update id=918837669 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 16:37:59,641 - aiogram.event - INFO - Update id=918837670 is not handled. Duration 0 ms by bot id=7540948524
+2025-06-08 16:38:02,825 - aiogram.event - INFO - Update id=918837671 is not handled. Duration 0 ms by bot id=7540948524
